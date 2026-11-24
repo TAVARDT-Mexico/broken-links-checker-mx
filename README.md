@@ -24,7 +24,7 @@ Desarrollado y operado por la division de infraestructura de **TAVARDT**.
 Requiere Python 3.8 o superior sin librerias de terceros.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/broken-links-checker-mx.git
+git clone https://github.com/TAVARDT/broken-links-checker-mx.git
 cd broken-links-checker-mx
 python broken_links_scanner.py https://empresa.mx
 ```
