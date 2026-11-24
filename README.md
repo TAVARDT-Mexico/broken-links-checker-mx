@@ -49,3 +49,7 @@ Para pruebas masivas en servidores en la nube:
 ## Soporte y Consultoria
 
 Para optimizacion tecnica de plataformas segun Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
