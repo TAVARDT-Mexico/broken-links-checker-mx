@@ -6,8 +6,6 @@
 
 Rastreo de hipervinculos internos y salientes para garantizar navegabilidad y retencion de trafico organico.
 
-Desarrollado y operado por la division de infraestructura de **TAVARDT**.
-
 ***
 
 ## Capacidades del Detector de Enlaces Rotos
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://empresa.mx -json
 
 ***
 
-## Herramienta en Linea
-
-Para pruebas masivas en servidores en la nube:
-
-* **Detector de Enlaces Rotos en Mexico**
-* **[Portal TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Soporte y Consultoria
 
 Para optimizacion tecnica de plataformas segun Estandares Digitales Nacionales y Google Search Central, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para optimizacion tecnica de plataformas segun Estandares Digitales Nacionales y
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
