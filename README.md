@@ -2,6 +2,7 @@
 
 [![Detector Enlaces Rotos](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/mx/detector-enlaces-rotos/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Rastreo de hipervinculos internos y salientes para garantizar navegabilidad y retencion de trafico organico.
 
@@ -57,6 +58,11 @@ Para optimizacion tecnica de plataformas segun Estandares Digitales Nacionales y
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
 
 ***
 
